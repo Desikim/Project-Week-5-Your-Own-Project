@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# YouTube Channel Data Analysis
 *Kim Desi*
 
 *Ironhack 2021*
