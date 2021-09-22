@@ -1,5 +1,3 @@
-<img src="https://i.ytimg.com/vi/uTN29kj7e-w/hqdefault.jpg" alt="Boho Beautiful" width="480"/>
-
 # YouTube Channel Data Analysis
 *Kim Desi*
 
@@ -15,7 +13,9 @@
 
 ## Project Description
 
-I currently work as a data analyst at [Boho Beautiful](https://www.youtube.com/channel/UCWN2FPlvg9r-LnUyepH9IaQ), a company run by a digital nomad yogi family. As my first step starting my work
+I currently work as a data analyst at [Boho Beautiful](https://www.youtube.com/channel/UCWN2FPlvg9r-LnUyepH9IaQ), a company run by a digital nomad yogi family. 
+<img src="https://i.ytimg.com/vi/uTN29kj7e-w/hqdefault.jpg" alt="Boho Beautiful" width="480"/>
+As my first step starting my work
 in this new position, I will execute a data analysis about the companies YouTube channel. 
 The purpose of this project is to create data sets containing detailed information about the YouTube channels videos for further data analysis. The results of the data analysis will then be visualized using Tableau and documented in a technical report. 
 
