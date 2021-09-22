@@ -1,9 +1,9 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+<img src="https://i.ytimg.com/vi/uTN29kj7e-w/hqdefault.jpg" alt="Boho Beautiful" width="480"/>
 
 # YouTube Channel Data Analysis
 *Kim Desi*
 
-*Ironhack 2021*
+*Ironhack | May 2021*
 
 ## Content
 - [Project Description](#project-description)
@@ -15,38 +15,58 @@
 
 ## Project Description
 
-I currently work as a data analyst at Boho Beautiful, a company run by a digital nomad yogi family. As my first step starting my work
+I currently work as a data analyst at [Boho Beautiful](https://www.youtube.com/channel/UCWN2FPlvg9r-LnUyepH9IaQ), a company run by a digital nomad yogi family. As my first step starting my work
 in this new position, I will execute a data analysis about the companies YouTube channel. 
-The purpose of this project is to create data sets containing detailed information about the YouTube channel for further data analysis. 
-The results of the data analysis will then be visualized and documented in a technical report. 
+The purpose of this project is to create data sets containing detailed information about the YouTube channels videos for further data analysis. The results of the data analysis will then be visualized using Tableau and documented in a technical report. 
 
 ## Questions & Hypotheses
+
+Some of the areas I want to explore are the correlation between certain parameters of the videos and the videos statistics (views , likes, dislikes and comments); as well as the dispersion of statistics per video category. This can be very interesting to gain insights about what the viewers of Boho Beautifuls channel like in terms of e.g. content type and video lenghts. These insights generate valuable informations that can be used for stratetig content planning and business decisions.  
+  
+Questions  
 1. Correlation between lenght of video and views , likes, dislikes and comments 
 2. Correlation between views and likes
 3. Views, likes, dislikes and comments per video category
 
 ## Dataset
-Wescraping & YouTube API
-The data set of this analysis was acquired by using Googles Data API V3 for YouTube. I scraped a Youtube Channel and
-stored the data in several dataframes for further analysis and visualizations using Tableau. The tables contain information
-about the videos of the YouTube Channel, including title, ID, published time and date, views, likes, dislikes, comments
-and duration of the videos. Several categories were created as sub data sets and used for categorizing, 
-e.g. 10 min videos, 25 min videos, workout videos, how-to videos...
-[Boho Beautiful YouTube Channel](https://www.youtube.com/channel/UCWN2FPlvg9r-LnUyepH9IaQ)
+
+The data set for this data analysis was obtained by using Googles data API V3 for YouTube. I scraped the YouTube channels playlists and stored the information in several dataframes for further analysis and visualizations with Tableau. 
+The tables contain information about the videos of the YouTube channel, including title, ID, published time and date, views, likes, dislikes, comments and duration of the videos. Several categories were created as sub datasets and then used for categorizing videos:
+- 10min videos
+- 15min videos
+- 20min videos
+- Yoga videos
+- Workout videos
+- Meditation videos
+- Lifestyle videos
 
 ## Workflow
-The first step was to figure out how to obtain data of Boho Beautifuls YouTube channel.
-After that it was necessary to clean and store this data in tables, creating several categories by video types and lenghts.
-Finally, the analysis is visualized in Tableau and presented in a powerpoint presentation.
-For organization I used a OneNote notebook containing all links and deadlines.
+
+1. Project plan
+- rough outline of project steps
+- researching related articles
+- OneNote setup for organization and documentation
+
+2. YouTube API V3
+- researching steps to take
+- setting up account for API access keys
+- scraping channel and finding the wanted informations location
+
+3. Data analysis
+- data cleaning & preparation
+- filtering data and creating categories
+
+4. Data visualization
+- answer questions with analysis results
+
+5. Presentation
+- add data visualizations
 
 ## Organization
-OneNote
-To do lists, links, project plan 
+
+The organization of this project was documented in a OneNote notebook, containing links to resources that helped me during the project, to do lists, the project plan and the questions I wanted to answer.
 
 ## Links
 
 [Repository](https://github.com/Desikim/Project-Week-5-Your-Own-Project)  
-[Slides](https://slides.com/)  
-[Tableau](https://public.tableau.com/app/profile/kim.desi/viz/YouTubeChannel_Analysis/Blatt8)
-
+[Tableau](https://public.tableau.com/app/profile/kim.desi/viz/YouTubeChannel_Analysis)
