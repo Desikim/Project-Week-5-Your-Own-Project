@@ -69,4 +69,4 @@ The organization of this project was documented in a OneNote notebook, containin
 ## Links
 
 [Repository](https://github.com/Desikim/Project-Week-5-Your-Own-Project)  
-[Tableau](https://public.tableau.com/app/profile/kim.desi/viz/YouTubeChannel_Analysis)
+[Tableau](https://public.tableau.com/app/profile/kim.desi/viz/YouTubeChannelanalysisvideocategories/CATEGORYDASH)
